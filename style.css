@@ -18,3 +18,7 @@
 body{
     background-color: whitesmoke;
 }
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
